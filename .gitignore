@@ -9,3 +9,8 @@ config.json
 cogs/support/ticket.json
 *.pyc
 *.pyc
+cogs/private/private.json
+*.pyc
+*.pyc
+*.pyc
+*.pyc
